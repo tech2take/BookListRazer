@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookListRazer", "BookListRazer.csproj", "{2A80CDF5-FA61-4BCD-BB87-18E25E43EEEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookListMVC", "..\BookListMVC\BookListMVC.csproj", "{A88DDB92-EE46-4C74-A0E9-916D24A455F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A80CDF5-FA61-4BCD-BB87-18E25E43EEEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A80CDF5-FA61-4BCD-BB87-18E25E43EEEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A80CDF5-FA61-4BCD-BB87-18E25E43EEEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A80CDF5-FA61-4BCD-BB87-18E25E43EEEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88DDB92-EE46-4C74-A0E9-916D24A455F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88DDB92-EE46-4C74-A0E9-916D24A455F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88DDB92-EE46-4C74-A0E9-916D24A455F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88DDB92-EE46-4C74-A0E9-916D24A455F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22F73F1E-6B8D-4807-9D9A-E7294DD3097E}
+	EndGlobalSection
+EndGlobal
